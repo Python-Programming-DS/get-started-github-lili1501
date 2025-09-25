@@ -2,7 +2,7 @@
 
 ## 🚀 About Me  
 I’m a data enthusiast with a background in **Electrical Engineering** and professional experience as a **Data Analyst**.  
-Currently, I’m pursuing my **Master’s in Data Science & Artificial Intelligence** at the University of Florida.  
+Currently, I’m pursuing my **Master’s in Applied Data Science** at the University of Florida.  
 
 ## 📚 What I’m Learning  
 - Advanced **Machine Learning** and **Deep Learning** (PyTorch, TensorFlow, Transformers, Keras)  
@@ -25,7 +25,7 @@ Currently, I’m pursuing my **Master’s in Data Science & Artificial Intellige
 - 📊 Data storytelling & visualization  
 - 📸 Photography  
 - 🎵 Music  
-- 🌍 Traveling and exploring diverse cultures  
+- 🌍 Traveling and chasing sunsets 🌄 
 
 ---
 
